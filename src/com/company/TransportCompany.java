@@ -10,5 +10,4 @@ public class TransportCompany{
     Transport createPlane(){
         return new Plane();
     }
-
 }
